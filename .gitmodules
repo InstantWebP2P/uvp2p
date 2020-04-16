@@ -1,0 +1,16 @@
+[submodule "libuv"]
+	path = libuv
+	url = https://github.com/libuv/libuv
+	branch = v1.x
+[submodule "uvudt"]
+	path = uvudt
+	url = https://github.com/instantwebp2p/uvudt
+	branch = master
+[submodule "uvkcp"]
+	path = uvkcp
+	url = https://github.com/instantwebp2p/uvkcp
+	branch = master
+[submodule "uvquic"]
+	path = uvquic
+	url = https://github.com/instantwebp2p/uvquic
+	branch = master
